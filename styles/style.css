@@ -1,18 +1,16 @@
 body
 {
-    background: rgb(142,128,106);
-    background: radial-gradient(circle, rgba(142,128,106,1) 0%, rgba(228,205,167,1) 35%, rgba(228,205,167,1) 100%);
+    background: rgb(136,158,175);
 }
 .imgRedonda
 {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     border-radius: 160px;
-    border: 10px solid #666;
+    border: 5px solid #506D84;
 }
 #cabecera
 {
-    background: -moz-repeating-linear-gradient();
     box-shadow: 0px 2px 20px 0px rbga(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
